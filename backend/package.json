@@ -1,0 +1,20 @@
+{
+  "name": "walletapp",
+  "version": "1.0.0",
+  "description": "API completa para carteira digital com transferências, PIX, extrato e segurança 2FA. Projetada com Clean Architecture, Node.js, TypeScript e Prisma.",
+  "keywords": [
+    "wallet",
+    "fintech",
+    "pix",
+    "transacoes",
+    "node",
+    "typescript",
+    "prisma",
+    "clean-archeteture"
+  ],
+  "license": "MIT",
+  "author": "Fernando Costa Mabunda",
+  "type": "module",
+  "main": "src/app.ts",
+  "scripts": {}
+}
