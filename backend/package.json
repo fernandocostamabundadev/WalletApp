@@ -16,5 +16,9 @@
   "author": "Fernando Costa Mabunda",
   "type": "module",
   "main": "src/app.ts",
-  "scripts": {}
+  "scripts": {},
+  "devDependencies": {
+    "@types/node": "^26.4.1",
+    "typescript": "^7.0.2"
+  }
 }
